@@ -1,0 +1,47 @@
+
+
+/* BASE SYSTEM */
+
+
+body{
+  background-color: #FFFFFF;
+  font-family: "helvetica neue" Arial sans-serif;
+  font-size: 15px;
+
+}
+
+.wrapper{
+	width: 1120px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+
+/* header */
+
+
+.page-header{
+
+  height: 66PX;
+  background: rgb(0, 0, 0,0.8);
+
+}
+
+.page-header .main-nav{
+
+  float: right;
+}
+.page-header .logo{
+  float: left;
+	padding-top: 23px;
+	box-sizing: border-box;
+}
+.main-nav .li{
+	float: left;
+	margin-left: 90px;
+}
+.main-nav .li a{
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+}
